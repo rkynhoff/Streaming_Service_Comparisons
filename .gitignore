@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# files
+/Rachel_Kynhoff_Project_Plan.docx
+/Project_Plan_Overview_Rachel_Kynhoff.docx
