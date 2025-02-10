@@ -1,4 +1,4 @@
-# CodeLouisville_Capstone
+# Stream Service Comparision Project
 Capstone project for Code Louisville Data Analytics pathway
 
 ## Data Sources:
