@@ -170,9 +170,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# files
+# Folder files
 /Rachel_Kynhoff_Project_Plan.docx
 /Project_Plan_Overview_Rachel_Kynhoff.docx
 /gitignore.txt
 /ProjectTime.xlsx
+/Unused_Project_Code.ipynb
 
