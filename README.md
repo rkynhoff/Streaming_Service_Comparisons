@@ -1,7 +1,7 @@
-# Stream Service Comparision Project
-Capstone project for Code Louisville Data Analytics pathway
+# **Stream Service Comparision Project**
+An analysis of four streaming platforms.
 
-## Data Sources:
+## __Data Sources:__
 
 ### Kaggle
 [Netflix|https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset]
@@ -12,12 +12,16 @@ Capstone project for Code Louisville Data Analytics pathway
 https://www.kaggle.com/code/webdevbadger/streaming-service-prices-study#2.-Library-and-Settings 
 
 
-### Potential API/API Assistance
-https://www.npmjs.com/package/justwatch-api 
-https://apis.justwatch.com/docs/data_export/#how-to-access-the-data 
-https://github.com/JDBarndt/JustWatch-API
-Kaggle APIs via OctopusTeam https://octopusteam.dev/ 
-https://github.com/theabbie/justwatch 
+## __Running the Program__
+The following is a guide to running the project files locally: 
+1. Fork the repository located [here|https://github.com/rkynhoff/Streaming_Service_Comparisons.git]
+2. Clone the repository to your on your local machine
+- Git clone <repo url here>
+3. Clone the repository to your local machine
+4. Follow the steps to create and activiate a virtual environment using the "Virtual Environment Commands to create a virtual environment" instructions below, depending on your OS
+- This step should also include installing the requirements.txt file
+5. You should now be able to run the program using the "STRM_SERV_COMP_V2.ipynb" file
+6. Refer to the "Data_Dictionary.ipynb" file if needed
 
 ## Virtual Environment Commands to create a virtual environment
 | Command | Linux/Mac | GitBash |
