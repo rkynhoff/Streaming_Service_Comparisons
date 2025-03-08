@@ -22,6 +22,14 @@ The following is a guide to running the project files locally:
     - This step should also include installing the requirements.txt file
 5. You should now be able to run the program using the "STRM_SERV_COMP_V2.ipynb" file
 6. Refer to the "Data_Dictionary.ipynb" file if needed
+7. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain notes that would require scrolling without Word Wrap enabled
+    - To do this in VS Code:
+        - Select File > Preferences > Settings
+        - Type in Word Wrap in the search
+        - Toggle Word Wrap to "on" if not already on
+    - Jupyter Notebooks online (JupyterLab,JupyerLite, etc.)
+        - Select File > Wrap Words
+        - Choose to turn it on
 
 ## Virtual Environment Commands to create a virtual environment
 | Command | Linux/Mac | GitBash |
