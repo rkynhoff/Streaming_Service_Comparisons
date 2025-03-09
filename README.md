@@ -4,12 +4,11 @@ An analysis of four streaming platforms.
 ## __Data Sources:__
 
 ### Kaggle
-[Netflix](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset)<br>
-[Hulu](https://www.kaggle.com/datasets/octopusteam/full-hulu-dataset)<br>
-[Prime](https://www.kaggle.com/datasets/octopusteam/full-amazon-prime-dataset/data)<br>
-[AppleTV](https://www.kaggle.com/datasets/octopusteam/full-apple-tv-dataset)<br>
-[PriceHistory](https://www.kaggle.com/datasets/webdevbadger/streaming-service-prices/data)<br>
-https://www.kaggle.com/code/webdevbadger/streaming-service-prices-study#2.-Library-and-Settings 
+- [Netflix](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset)<br>
+- [Hulu](https://www.kaggle.com/datasets/octopusteam/full-hulu-dataset)<br>
+- [Prime](https://www.kaggle.com/datasets/octopusteam/full-amazon-prime-dataset/data)<br>
+- [AppleTV](https://www.kaggle.com/datasets/octopusteam/full-apple-tv-dataset)<br>
+- [PriceHistory](https://www.kaggle.com/datasets/webdevbadger/streaming-service-prices/data)<br>
 
 
 ## __Running the Program__
