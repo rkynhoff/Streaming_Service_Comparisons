@@ -1,0 +1,778 @@
+service,date,price
+Netflix,Jul-11,7.99
+Netflix,Aug-11,7.99
+Netflix,Sep-11,7.99
+Netflix,Oct-11,7.99
+Netflix,Nov-11,7.99
+Netflix,Dec-11,7.99
+Netflix,Jan-12,7.99
+Netflix,Feb-12,7.99
+Netflix,Mar-12,7.99
+Netflix,Apr-12,7.99
+Netflix,May-12,7.99
+Netflix,Jun-12,7.99
+Netflix,Jul-12,7.99
+Netflix,Aug-12,7.99
+Netflix,Sep-12,7.99
+Netflix,Oct-12,7.99
+Netflix,Nov-12,7.99
+Netflix,Dec-12,7.99
+Netflix,Jan-13,7.99
+Netflix,Feb-13,7.99
+Netflix,Mar-13,7.99
+Netflix,Apr-13,7.99
+Netflix,May-13,7.99
+Netflix,Jun-13,7.99
+Netflix,Jul-13,7.99
+Netflix,Aug-13,7.99
+Netflix,Sep-13,7.99
+Netflix,Oct-13,7.99
+Netflix,Nov-13,7.99
+Netflix,Dec-13,7.99
+Netflix,Jan-14,7.99
+Netflix,Feb-14,7.99
+Netflix,Mar-14,7.99
+Netflix,Apr-14,7.99
+Netflix,May-14,7.99
+Netflix,Jun-14,7.99
+Netflix,Jul-14,7.99
+Netflix,Aug-14,7.99
+Netflix,Sep-14,7.99
+Netflix,Oct-14,7.99
+Netflix,Nov-14,7.99
+Netflix,Dec-14,7.99
+Netflix,Jan-15,7.99
+Netflix,Feb-15,7.99
+Netflix,Mar-15,7.99
+Netflix,Apr-15,7.99
+Netflix,May-15,7.99
+Netflix,Jun-15,7.99
+Netflix,Jul-15,7.99
+Netflix,Aug-15,7.99
+Netflix,Sep-15,7.99
+Netflix,Oct-15,7.99
+Netflix,Nov-15,7.99
+Netflix,Dec-15,7.99
+Netflix,Jan-16,7.99
+Netflix,Feb-16,7.99
+Netflix,Mar-16,7.99
+Netflix,Apr-16,7.99
+Netflix,May-16,7.99
+Netflix,Jun-16,7.99
+Netflix,Jul-16,7.99
+Netflix,Aug-16,7.99
+Netflix,Sep-16,7.99
+Netflix,Oct-16,7.99
+Netflix,Nov-16,7.99
+Netflix,Dec-16,7.99
+Netflix,Jan-17,7.99
+Netflix,Feb-17,7.99
+Netflix,Mar-17,7.99
+Netflix,Apr-17,7.99
+Netflix,May-17,7.99
+Netflix,Jun-17,7.99
+Netflix,Jul-17,7.99
+Netflix,Aug-17,7.99
+Netflix,Sep-17,7.99
+Netflix,Oct-17,7.99
+Netflix,Nov-17,7.99
+Netflix,Dec-17,7.99
+Netflix,Jan-18,7.99
+Netflix,Feb-18,7.99
+Netflix,Mar-18,7.99
+Netflix,Apr-18,7.99
+Netflix,May-18,7.99
+Netflix,Jun-18,7.99
+Netflix,Jul-18,7.99
+Netflix,Aug-18,7.99
+Netflix,Sep-18,7.99
+Netflix,Oct-18,7.99
+Netflix,Nov-18,7.99
+Netflix,Dec-18,7.99
+Netflix,Jan-19,8.99
+Netflix,Feb-19,8.99
+Netflix,Mar-19,8.99
+Netflix,Apr-19,8.99
+Netflix,May-19,8.99
+Netflix,Jun-19,8.99
+Netflix,Jul-19,8.99
+Netflix,Aug-19,8.99
+Netflix,Sep-19,8.99
+Netflix,Oct-19,8.99
+Netflix,Nov-19,8.99
+Netflix,Dec-19,8.99
+Netflix,Jan-20,8.99
+Netflix,Feb-20,8.99
+Netflix,Mar-20,8.99
+Netflix,Apr-20,8.99
+Netflix,May-20,8.99
+Netflix,Jun-20,8.99
+Netflix,Jul-20,8.99
+Netflix,Aug-20,8.99
+Netflix,Sep-20,8.99
+Netflix,Oct-20,8.99
+Netflix,Nov-20,8.99
+Netflix,Dec-20,8.99
+Netflix,Jan-21,8.99
+Netflix,Feb-21,8.99
+Netflix,Mar-21,8.99
+Netflix,Apr-21,8.99
+Netflix,May-21,8.99
+Netflix,Jun-21,8.99
+Netflix,Jul-21,8.99
+Netflix,Aug-21,8.99
+Netflix,Sep-21,8.99
+Netflix,Oct-21,8.99
+Netflix,Nov-21,8.99
+Netflix,Dec-21,8.99
+Netflix,Jan-22,9.99
+Netflix,Feb-22,9.99
+Netflix,Mar-22,9.99
+Netflix,Apr-22,9.99
+Netflix,May-22,9.99
+Netflix,Jun-22,9.99
+Netflix,Jul-22,9.99
+Netflix,Aug-22,9.99
+Netflix,Sep-22,9.99
+Netflix,Oct-22,9.99
+Netflix,Nov-22,9.99
+Netflix,Dec-22,9.99
+Netflix,Jan-23,9.99
+Netflix,Feb-23,9.99
+Netflix,Mar-23,9.99
+Netflix,Apr-23,9.99
+Netflix,May-23,9.99
+Netflix,Jun-23,9.99
+Netflix,Jul-23,9.99
+Netflix,Aug-23,9.99
+Netflix,Sep-23,9.99
+Netflix,Oct-23,15.49
+Netflix,Nov-23,15.49
+Netflix,Dec-23,15.49
+Netflix,Jan-24,15.49
+Disney+,Nov-19,6.99
+Disney+,Dec-19,6.99
+Disney+,Jan-20,6.99
+Disney+,Feb-20,6.99
+Disney+,Mar-20,6.99
+Disney+,Apr-20,6.99
+Disney+,May-20,6.99
+Disney+,Jun-20,6.99
+Disney+,Jul-20,6.99
+Disney+,Aug-20,6.99
+Disney+,Sep-20,6.99
+Disney+,Oct-20,6.99
+Disney+,Nov-20,6.99
+Disney+,Dec-20,6.99
+Disney+,Jan-21,6.99
+Disney+,Feb-21,6.99
+Disney+,Mar-21,7.99
+Disney+,Apr-21,7.99
+Disney+,May-21,7.99
+Disney+,Jun-21,7.99
+Disney+,Jul-21,7.99
+Disney+,Aug-21,7.99
+Disney+,Sep-21,7.99
+Disney+,Oct-21,7.99
+Disney+,Nov-21,7.99
+Disney+,Dec-21,7.99
+Disney+,Jan-22,7.99
+Disney+,Feb-22,7.99
+Disney+,Mar-22,7.99
+Disney+,Apr-22,7.99
+Disney+,May-22,7.99
+Disney+,Jun-22,7.99
+Disney+,Jul-22,7.99
+Disney+,Aug-22,7.99
+Disney+,Sep-22,7.99
+Disney+,Oct-22,7.99
+Disney+,Nov-22,7.99
+Disney+,Dec-22,10.99
+Disney+,Jan-23,10.99
+Disney+,Feb-23,10.99
+Disney+,Mar-23,10.99
+Disney+,Apr-23,10.99
+Disney+,May-23,10.99
+Disney+,Jun-23,10.99
+Disney+,Jul-23,10.99
+Disney+,Aug-23,10.99
+Disney+,Sep-23,10.99
+Disney+,Oct-23,13.99
+Disney+,Nov-23,13.99
+Disney+,Dec-23,13.99
+Disney+,Jan-24,13.99
+HBO Max,May-20,14.99
+HBO Max,Jun-20,14.99
+HBO Max,Jul-20,14.99
+HBO Max,Aug-20,14.99
+HBO Max,Sep-20,14.99
+HBO Max,Oct-20,14.99
+HBO Max,Nov-20,14.99
+HBO Max,Dec-20,14.99
+HBO Max,Jan-21,14.99
+HBO Max,Feb-21,14.99
+HBO Max,Mar-21,14.99
+HBO Max,Apr-21,14.99
+HBO Max,May-21,14.99
+HBO Max,Jun-21,14.99
+HBO Max,Jul-21,14.99
+HBO Max,Aug-21,14.99
+HBO Max,Sep-21,14.99
+HBO Max,Oct-21,14.99
+HBO Max,Nov-21,14.99
+HBO Max,Dec-21,14.99
+HBO Max,Jan-22,14.99
+HBO Max,Feb-22,14.99
+HBO Max,Mar-22,14.99
+HBO Max,Apr-22,14.99
+HBO Max,May-22,14.99
+HBO Max,Jun-22,14.99
+HBO Max,Jul-22,14.99
+HBO Max,Aug-22,14.99
+HBO Max,Sep-22,14.99
+HBO Max,Oct-22,14.99
+HBO Max,Nov-22,14.99
+HBO Max,Dec-22,14.99
+HBO Max,Jan-23,14.99
+HBO Max,Feb-23,15.99
+HBO Max,Mar-23,15.99
+HBO Max,Apr-23,15.99
+HBO Max,May-23,15.99
+HBO Max,Jun-23,15.99
+HBO Max,Jul-23,15.99
+HBO Max,Aug-23,15.99
+HBO Max,Sep-23,15.99
+HBO Max,Oct-23,15.99
+HBO Max,Nov-23,15.99
+HBO Max,Dec-23,15.99
+HBO Max,Jan-24,15.99
+Hulu,Oct-15,11.99
+Hulu,Nov-15,11.99
+Hulu,Dec-15,11.99
+Hulu,Jan-16,11.99
+Hulu,Feb-16,11.99
+Hulu,Mar-16,11.99
+Hulu,Apr-16,11.99
+Hulu,May-16,11.99
+Hulu,Jun-16,11.99
+Hulu,Jul-16,11.99
+Hulu,Aug-16,11.99
+Hulu,Sep-16,11.99
+Hulu,Oct-16,11.99
+Hulu,Nov-16,11.99
+Hulu,Dec-16,11.99
+Hulu,Jan-17,11.99
+Hulu,Feb-17,11.99
+Hulu,Mar-17,11.99
+Hulu,Apr-17,11.99
+Hulu,May-17,11.99
+Hulu,Jun-17,11.99
+Hulu,Jul-17,11.99
+Hulu,Aug-17,11.99
+Hulu,Sep-17,11.99
+Hulu,Oct-17,11.99
+Hulu,Nov-17,11.99
+Hulu,Dec-17,11.99
+Hulu,Jan-18,11.99
+Hulu,Feb-18,11.99
+Hulu,Mar-18,11.99
+Hulu,Apr-18,11.99
+Hulu,May-18,11.99
+Hulu,Jun-18,11.99
+Hulu,Jul-18,11.99
+Hulu,Aug-18,11.99
+Hulu,Sep-18,11.99
+Hulu,Oct-18,11.99
+Hulu,Nov-18,11.99
+Hulu,Dec-18,11.99
+Hulu,Jan-19,11.99
+Hulu,Feb-19,11.99
+Hulu,Mar-19,11.99
+Hulu,Apr-19,11.99
+Hulu,May-19,11.99
+Hulu,Jun-19,11.99
+Hulu,Jul-19,11.99
+Hulu,Aug-19,11.99
+Hulu,Sep-19,11.99
+Hulu,Oct-19,11.99
+Hulu,Nov-19,11.99
+Hulu,Dec-19,11.99
+Hulu,Jan-20,11.99
+Hulu,Feb-20,11.99
+Hulu,Mar-20,11.99
+Hulu,Apr-20,11.99
+Hulu,May-20,11.99
+Hulu,Jun-20,11.99
+Hulu,Jul-20,11.99
+Hulu,Aug-20,11.99
+Hulu,Sep-20,11.99
+Hulu,Oct-20,11.99
+Hulu,Nov-20,11.99
+Hulu,Dec-20,11.99
+Hulu,Jan-21,11.99
+Hulu,Feb-21,11.99
+Hulu,Mar-21,11.99
+Hulu,Apr-21,11.99
+Hulu,May-21,11.99
+Hulu,Jun-21,11.99
+Hulu,Jul-21,11.99
+Hulu,Aug-21,11.99
+Hulu,Sep-21,11.99
+Hulu,Oct-21,12.99
+Hulu,Nov-21,12.99
+Hulu,Dec-21,12.99
+Hulu,Jan-22,12.99
+Hulu,Feb-22,12.99
+Hulu,Mar-22,12.99
+Hulu,Apr-22,12.99
+Hulu,May-22,12.99
+Hulu,Jun-22,12.99
+Hulu,Jul-22,12.99
+Hulu,Aug-22,12.99
+Hulu,Sep-22,12.99
+Hulu,Oct-22,12.99
+Hulu,Nov-22,12.99
+Hulu,Dec-22,14.99
+Hulu,Jan-23,14.99
+Hulu,Feb-23,14.99
+Hulu,Mar-23,14.99
+Hulu,Apr-23,14.99
+Hulu,May-23,14.99
+Hulu,Jun-23,14.99
+Hulu,Jul-23,14.99
+Hulu,Aug-23,14.99
+Hulu,Sep-23,14.99
+Hulu,Oct-23,14.99
+Hulu,Nov-23,14.99
+Hulu,Dec-23,14.99
+Hulu,Jan-24,17.99
+Paramount+,Oct-14,9.99
+Paramount+,Nov-14,9.99
+Paramount+,Dec-14,9.99
+Paramount+,Jan-15,9.99
+Paramount+,Feb-15,9.99
+Paramount+,Mar-15,9.99
+Paramount+,Apr-15,9.99
+Paramount+,May-15,9.99
+Paramount+,Jun-15,9.99
+Paramount+,Jul-15,9.99
+Paramount+,Aug-15,9.99
+Paramount+,Sep-15,9.99
+Paramount+,Oct-15,9.99
+Paramount+,Nov-15,9.99
+Paramount+,Dec-15,9.99
+Paramount+,Jan-16,9.99
+Paramount+,Feb-16,9.99
+Paramount+,Mar-16,9.99
+Paramount+,Apr-16,9.99
+Paramount+,May-16,9.99
+Paramount+,Jun-16,9.99
+Paramount+,Jul-16,9.99
+Paramount+,Aug-16,9.99
+Paramount+,Sep-16,9.99
+Paramount+,Oct-16,9.99
+Paramount+,Nov-16,9.99
+Paramount+,Dec-16,9.99
+Paramount+,Jan-17,9.99
+Paramount+,Feb-17,9.99
+Paramount+,Mar-17,9.99
+Paramount+,Apr-17,9.99
+Paramount+,May-17,9.99
+Paramount+,Jun-17,9.99
+Paramount+,Jul-17,9.99
+Paramount+,Aug-17,9.99
+Paramount+,Sep-17,9.99
+Paramount+,Oct-17,9.99
+Paramount+,Nov-17,9.99
+Paramount+,Dec-17,9.99
+Paramount+,Jan-18,9.99
+Paramount+,Feb-18,9.99
+Paramount+,Mar-18,9.99
+Paramount+,Apr-18,9.99
+Paramount+,May-18,9.99
+Paramount+,Jun-18,9.99
+Paramount+,Jul-18,9.99
+Paramount+,Aug-18,9.99
+Paramount+,Sep-18,9.99
+Paramount+,Oct-18,9.99
+Paramount+,Nov-18,9.99
+Paramount+,Dec-18,9.99
+Paramount+,Jan-19,9.99
+Paramount+,Feb-19,9.99
+Paramount+,Mar-19,9.99
+Paramount+,Apr-19,9.99
+Paramount+,May-19,9.99
+Paramount+,Jun-19,9.99
+Paramount+,Jul-19,9.99
+Paramount+,Aug-19,9.99
+Paramount+,Sep-19,9.99
+Paramount+,Oct-19,9.99
+Paramount+,Nov-19,9.99
+Paramount+,Dec-19,9.99
+Paramount+,Jan-20,9.99
+Paramount+,Feb-20,9.99
+Paramount+,Mar-20,9.99
+Paramount+,Apr-20,9.99
+Paramount+,May-20,9.99
+Paramount+,Jun-20,9.99
+Paramount+,Jul-20,9.99
+Paramount+,Aug-20,9.99
+Paramount+,Sep-20,9.99
+Paramount+,Oct-20,9.99
+Paramount+,Nov-20,9.99
+Paramount+,Dec-20,9.99
+Paramount+,Jan-21,9.99
+Paramount+,Feb-21,9.99
+Paramount+,Mar-21,9.99
+Paramount+,Apr-21,9.99
+Paramount+,May-21,9.99
+Paramount+,Jun-21,9.99
+Paramount+,Jul-21,9.99
+Paramount+,Aug-21,9.99
+Paramount+,Sep-21,9.99
+Paramount+,Oct-21,9.99
+Paramount+,Nov-21,9.99
+Paramount+,Dec-21,9.99
+Paramount+,Jan-22,9.99
+Paramount+,Feb-22,9.99
+Paramount+,Mar-22,9.99
+Paramount+,Apr-22,9.99
+Paramount+,May-22,9.99
+Paramount+,Jun-22,9.99
+Paramount+,Jul-22,9.99
+Paramount+,Aug-22,9.99
+Paramount+,Sep-22,9.99
+Paramount+,Oct-22,9.99
+Paramount+,Nov-22,9.99
+Paramount+,Dec-22,9.99
+Paramount+,Jan-23,9.99
+Paramount+,Feb-23,9.99
+Paramount+,Mar-23,9.99
+Paramount+,Apr-23,9.99
+Paramount+,May-23,9.99
+Paramount+,Jun-23,11.99
+Paramount+,Jul-23,11.99
+Paramount+,Aug-23,11.99
+Paramount+,Sep-23,11.99
+Paramount+,Oct-23,11.99
+Paramount+,Nov-23,11.99
+Paramount+,Dec-23,11.99
+Paramount+,Jan-24,11.99
+Prime Video,Apr-16,8.99
+Prime Video,May-16,8.99
+Prime Video,Jun-16,8.99
+Prime Video,Jul-16,8.99
+Prime Video,Aug-16,8.99
+Prime Video,Sep-16,8.99
+Prime Video,Oct-16,8.99
+Prime Video,Nov-16,8.99
+Prime Video,Dec-16,8.99
+Prime Video,Jan-17,8.99
+Prime Video,Feb-17,8.99
+Prime Video,Mar-17,8.99
+Prime Video,Apr-17,8.99
+Prime Video,May-17,8.99
+Prime Video,Jun-17,8.99
+Prime Video,Jul-17,8.99
+Prime Video,Aug-17,8.99
+Prime Video,Sep-17,8.99
+Prime Video,Oct-17,8.99
+Prime Video,Nov-17,8.99
+Prime Video,Dec-17,8.99
+Prime Video,Jan-18,8.99
+Prime Video,Feb-18,8.99
+Prime Video,Mar-18,8.99
+Prime Video,Apr-18,8.99
+Prime Video,May-18,8.99
+Prime Video,Jun-18,8.99
+Prime Video,Jul-18,8.99
+Prime Video,Aug-18,8.99
+Prime Video,Sep-18,8.99
+Prime Video,Oct-18,8.99
+Prime Video,Nov-18,8.99
+Prime Video,Dec-18,8.99
+Prime Video,Jan-19,8.99
+Prime Video,Feb-19,8.99
+Prime Video,Mar-19,8.99
+Prime Video,Apr-19,8.99
+Prime Video,May-19,8.99
+Prime Video,Jun-19,8.99
+Prime Video,Jul-19,8.99
+Prime Video,Aug-19,8.99
+Prime Video,Sep-19,8.99
+Prime Video,Oct-19,8.99
+Prime Video,Nov-19,8.99
+Prime Video,Dec-19,8.99
+Prime Video,Jan-20,8.99
+Prime Video,Feb-20,8.99
+Prime Video,Mar-20,8.99
+Prime Video,Apr-20,8.99
+Prime Video,May-20,8.99
+Prime Video,Jun-20,8.99
+Prime Video,Jul-20,8.99
+Prime Video,Aug-20,8.99
+Prime Video,Sep-20,8.99
+Prime Video,Oct-20,8.99
+Prime Video,Nov-20,8.99
+Prime Video,Dec-20,8.99
+Prime Video,Jan-21,8.99
+Prime Video,Feb-21,8.99
+Prime Video,Mar-21,8.99
+Prime Video,Apr-21,8.99
+Prime Video,May-21,8.99
+Prime Video,Jun-21,8.99
+Prime Video,Jul-21,8.99
+Prime Video,Aug-21,8.99
+Prime Video,Sep-21,8.99
+Prime Video,Oct-21,8.99
+Prime Video,Nov-21,8.99
+Prime Video,Dec-21,8.99
+Prime Video,Jan-22,8.99
+Prime Video,Feb-22,8.99
+Prime Video,Mar-22,8.99
+Prime Video,Apr-22,8.99
+Prime Video,May-22,8.99
+Prime Video,Jun-22,8.99
+Prime Video,Jul-22,8.99
+Prime Video,Aug-22,8.99
+Prime Video,Sep-22,8.99
+Prime Video,Oct-22,8.99
+Prime Video,Nov-22,8.99
+Prime Video,Dec-22,8.99
+Prime Video,Jan-23,8.99
+Prime Video,Feb-23,8.99
+Prime Video,Mar-23,8.99
+Prime Video,Apr-23,8.99
+Prime Video,May-23,8.99
+Prime Video,Jun-23,8.99
+Prime Video,Jul-23,8.99
+Prime Video,Aug-23,8.99
+Prime Video,Sep-23,8.99
+Prime Video,Oct-23,8.99
+Prime Video,Nov-23,8.99
+Prime Video,Dec-23,8.99
+Prime Video,Jan-24,11.99
+Apple TV+,Nov-19,4.99
+Apple TV+,Dec-19,4.99
+Apple TV+,Jan-20,4.99
+Apple TV+,Feb-20,4.99
+Apple TV+,Mar-20,4.99
+Apple TV+,Apr-20,4.99
+Apple TV+,May-20,4.99
+Apple TV+,Jun-20,4.99
+Apple TV+,Jul-20,4.99
+Apple TV+,Aug-20,4.99
+Apple TV+,Sep-20,4.99
+Apple TV+,Oct-20,4.99
+Apple TV+,Nov-20,4.99
+Apple TV+,Dec-20,4.99
+Apple TV+,Jan-21,4.99
+Apple TV+,Feb-21,4.99
+Apple TV+,Mar-21,4.99
+Apple TV+,Apr-21,4.99
+Apple TV+,May-21,4.99
+Apple TV+,Jun-21,4.99
+Apple TV+,Jul-21,4.99
+Apple TV+,Aug-21,4.99
+Apple TV+,Sep-21,4.99
+Apple TV+,Oct-21,4.99
+Apple TV+,Nov-21,4.99
+Apple TV+,Dec-21,4.99
+Apple TV+,Jan-22,4.99
+Apple TV+,Feb-22,4.99
+Apple TV+,Mar-22,4.99
+Apple TV+,Apr-22,4.99
+Apple TV+,May-22,4.99
+Apple TV+,Jun-22,4.99
+Apple TV+,Jul-22,4.99
+Apple TV+,Aug-22,4.99
+Apple TV+,Sep-22,4.99
+Apple TV+,Oct-22,6.99
+Apple TV+,Nov-22,6.99
+Apple TV+,Dec-22,6.99
+Apple TV+,Jan-23,6.99
+Apple TV+,Feb-23,6.99
+Apple TV+,Mar-23,6.99
+Apple TV+,Apr-23,6.99
+Apple TV+,May-23,6.99
+Apple TV+,Jun-23,6.99
+Apple TV+,Jul-23,6.99
+Apple TV+,Aug-23,6.99
+Apple TV+,Sep-23,6.99
+Apple TV+,Oct-23,6.99
+Apple TV+,Nov-23,6.99
+Apple TV+,Dec-23,6.99
+Apple TV+,Jan-24,9.99
+Peacock,Jul-20,9.99
+Peacock,Aug-20,9.99
+Peacock,Sep-20,9.99
+Peacock,Oct-20,9.99
+Peacock,Nov-20,9.99
+Peacock,Dec-20,9.99
+Peacock,Jan-21,9.99
+Peacock,Feb-21,9.99
+Peacock,Mar-21,9.99
+Peacock,Apr-21,9.99
+Peacock,May-21,9.99
+Peacock,Jun-21,9.99
+Peacock,Jul-21,9.99
+Peacock,Aug-21,9.99
+Peacock,Sep-21,9.99
+Peacock,Oct-21,9.99
+Peacock,Nov-21,9.99
+Peacock,Dec-21,9.99
+Peacock,Jan-22,9.99
+Peacock,Feb-22,9.99
+Peacock,Mar-22,9.99
+Peacock,Apr-22,9.99
+Peacock,May-22,9.99
+Peacock,Jun-22,9.99
+Peacock,Jul-22,9.99
+Peacock,Aug-22,9.99
+Peacock,Sep-22,9.99
+Peacock,Oct-22,9.99
+Peacock,Nov-22,9.99
+Peacock,Dec-22,9.99
+Peacock,Jan-23,9.99
+Peacock,Feb-23,9.99
+Peacock,Mar-23,9.99
+Peacock,Apr-23,9.99
+Peacock,May-23,9.99
+Peacock,Jun-23,9.99
+Peacock,Jul-23,9.99
+Peacock,Aug-23,11.99
+Peacock,Sep-23,11.99
+Peacock,Oct-23,11.99
+Peacock,Nov-23,11.99
+Peacock,Dec-23,11.99
+Peacock,Jan-24,11.99
+Shudder,Oct-16,5.99
+Shudder,Nov-16,5.99
+Shudder,Dec-16,5.99
+Shudder,Jan-17,5.99
+Shudder,Feb-17,5.99
+Shudder,Mar-17,5.99
+Shudder,Apr-17,5.99
+Shudder,May-17,5.99
+Shudder,Jun-17,5.99
+Shudder,Jul-17,5.99
+Shudder,Aug-17,5.99
+Shudder,Sep-17,5.99
+Shudder,Oct-17,5.99
+Shudder,Nov-17,5.99
+Shudder,Dec-17,5.99
+Shudder,Jan-18,5.99
+Shudder,Feb-18,5.99
+Shudder,Mar-18,5.99
+Shudder,Apr-18,5.99
+Shudder,May-18,5.99
+Shudder,Jun-18,5.99
+Shudder,Jul-18,5.99
+Shudder,Aug-18,5.99
+Shudder,Sep-18,5.99
+Shudder,Oct-18,5.99
+Shudder,Nov-18,5.99
+Shudder,Dec-18,5.99
+Shudder,Jan-19,5.99
+Shudder,Feb-19,5.99
+Shudder,Mar-19,5.99
+Shudder,Apr-19,5.99
+Shudder,May-19,5.99
+Shudder,Jun-19,5.99
+Shudder,Jul-19,5.99
+Shudder,Aug-19,5.99
+Shudder,Sep-19,5.99
+Shudder,Oct-19,5.99
+Shudder,Nov-19,5.99
+Shudder,Dec-19,5.99
+Shudder,Jan-20,5.99
+Shudder,Feb-20,5.99
+Shudder,Mar-20,5.99
+Shudder,Apr-20,5.99
+Shudder,May-20,5.99
+Shudder,Jun-20,5.99
+Shudder,Jul-20,5.99
+Shudder,Aug-20,5.99
+Shudder,Sep-20,5.99
+Shudder,Oct-20,5.99
+Shudder,Nov-20,5.99
+Shudder,Dec-20,5.99
+Shudder,Jan-21,5.99
+Shudder,Feb-21,5.99
+Shudder,Mar-21,5.99
+Shudder,Apr-21,5.99
+Shudder,May-21,5.99
+Shudder,Jun-21,5.99
+Shudder,Jul-21,5.99
+Shudder,Aug-21,5.99
+Shudder,Sep-21,5.99
+Shudder,Oct-21,5.99
+Shudder,Nov-21,5.99
+Shudder,Dec-21,5.99
+Shudder,Jan-22,5.99
+Shudder,Feb-22,5.99
+Shudder,Mar-22,5.99
+Shudder,Apr-22,5.99
+Shudder,May-22,5.99
+Shudder,Jun-22,5.99
+Shudder,Jul-22,5.99
+Shudder,Aug-22,5.99
+Shudder,Sep-22,5.99
+Shudder,Oct-22,5.99
+Shudder,Nov-22,5.99
+Shudder,Dec-22,5.99
+Shudder,Jan-23,5.99
+Shudder,Feb-23,5.99
+Shudder,Mar-23,5.99
+Shudder,Apr-23,5.99
+Shudder,May-23,5.99
+Shudder,Jun-23,5.99
+Shudder,Jul-23,5.99
+Shudder,Aug-23,6.99
+Shudder,Sep-23,6.99
+Shudder,Oct-23,6.99
+Shudder,Nov-23,6.99
+Shudder,Dec-23,6.99
+Shudder,Jan-24,6.99
+Crunchyroll,Aug-20,7.99
+Crunchyroll,Sep-20,7.99
+Crunchyroll,Oct-20,7.99
+Crunchyroll,Nov-20,7.99
+Crunchyroll,Dec-20,7.99
+Crunchyroll,Jan-21,7.99
+Crunchyroll,Feb-21,7.99
+Crunchyroll,Mar-21,7.99
+Crunchyroll,Apr-21,7.99
+Crunchyroll,May-21,7.99
+Crunchyroll,Jun-21,7.99
+Crunchyroll,Jul-21,7.99
+Crunchyroll,Aug-21,7.99
+Crunchyroll,Sep-21,7.99
+Crunchyroll,Oct-21,7.99
+Crunchyroll,Nov-21,7.99
+Crunchyroll,Dec-21,7.99
+Crunchyroll,Jan-22,7.99
+Crunchyroll,Feb-22,7.99
+Crunchyroll,Mar-22,7.99
+Crunchyroll,Apr-22,7.99
+Crunchyroll,May-22,7.99
+Crunchyroll,Jun-22,7.99
+Crunchyroll,Jul-22,7.99
+Crunchyroll,Aug-22,7.99
+Crunchyroll,Sep-22,7.99
+Crunchyroll,Oct-22,7.99
+Crunchyroll,Nov-22,7.99
+Crunchyroll,Dec-22,7.99
+Crunchyroll,Jan-23,7.99
+Crunchyroll,Feb-23,7.99
+Crunchyroll,Mar-23,7.99
+Crunchyroll,Apr-23,7.99
+Crunchyroll,May-23,7.99
+Crunchyroll,Jun-23,7.99
+Crunchyroll,Jul-23,7.99
+Crunchyroll,Aug-23,7.99
+Crunchyroll,Sep-23,7.99
+Crunchyroll,Oct-23,7.99
+Crunchyroll,Nov-23,7.99
+Crunchyroll,Dec-23,7.99
+Crunchyroll,Jan-24,7.99
