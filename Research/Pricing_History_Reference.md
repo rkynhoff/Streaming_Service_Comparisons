@@ -13,7 +13,7 @@ This document references the websites from which I obtained the pricing data his
 - 2023 – 2025: [PC Mag](https://www.pcmag.com/explainers/how-much-guide-to-streaming-service-costs-price-hikes)
 
 ### Netflix Price History 
-- 2019 – 2025: [9 Meters](https://9meters.com/entertainment/streaming/netflix-pricing-history or [PC Mag](https://www.pcmag.com/explainers/how-much-guide-to-streaming-service-costs-price-hikes)
+- 2019 – 2025: [9 Meters](https://9meters.com/entertainment/streaming/netflix-pricing-history) or [PC Mag](https://www.pcmag.com/explainers/how-much-guide-to-streaming-service-costs-price-hikes)
 
 ### Prime Price History
 - 2019 – 2021: [Variety](https://variety.com/2018/digital/news/amazon-price-increase-prime-monthly-1202669439/)
