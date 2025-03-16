@@ -1,7 +1,7 @@
 # **Streaming Service Comparision**
 
 ## Overview
-This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more. The goal of this project is to demonstrate a general knowledge of Python. 
+This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more in comparison to price points. The goal of this project is to demonstrate a general knowledge of Python. 
 
 ## __Data Sources:__
 Four of the datasets used in this project contains conent information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating. One dataset contains information related to pricing on each of the services from for a specific timeframe. 
