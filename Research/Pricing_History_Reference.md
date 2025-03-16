@@ -1,7 +1,8 @@
-References:
-
-AppleTV Price History:
-•	2019 – 2023 - https://www.pcmag.com/explainers/how-much-guide-to-streaming-service-costs-price-hikes
+# **Pricing HIstory Sources** <br>
+---
+<br>
+<u>**AppleTV Price History**</u>:<br>
+•	2019 – 2023 - [PC Mag](https://www.pcmag.com/explainers/how-much-guide-to-streaming-service-costs-price-hikes)
 •	2024 - https://www.tvguide.com/news/apple-tv-plus-cost/
 •	2025 - https://www.apple.com/apple-tv-plus/ 
 
