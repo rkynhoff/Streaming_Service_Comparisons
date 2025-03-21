@@ -4,7 +4,7 @@
 This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more in comparison to price points. The goal of this project is to demonstrate a general knowledge of Python. 
 
 ## __Data Sources:__
-Four of the datasets used in this project contains conent information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating. One dataset contains information related to pricing on each of the services from for a specific timeframe. 
+Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating. One dataset contains information related to pricing on each of the services from for a specific timeframe noted as month-year. 
 
 ### Kaggle
 - [Netflix](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset)<br>
@@ -34,13 +34,16 @@ This project is organized as follows:
 ## **Getting Started**
 The following is a guide to running the project files locally: 
 1. If you want to save a copy on your GitHub, fork the repository located [here](https://github.com/rkynhoff/Streaming_Service_Comparisons.git), otherwise, move to step 2
-2. In your command center, clone the repository to your on your local machine: 'git clone https://github.com/rkynhoff/Streaming_Service_Comparisons.git'
-3. Follow the steps to create and activiate a virtual environment using the "Virtual Environment Commands to create a virtual environment" instructions below, depending on your OS
+2. In your command center or in the terminal of VS Code, clone the repository to your on your local machine: 'git clone https://github.com/rkynhoff/Streaming_Service_Comparisons.git'
+    - Ensure your command center is opened to the folder in which you wish to save this repository
+3. Follow the first three steps in the "Virtual Environment Instructions" to create and activiate a virtual environment, depending on your operating system (OS)
     - This step should also include installing the requirements.txt file
-5. You should now be able to run the program using the "STRM_SERV_COMP_V2.ipynb" file
-6. Explore the Juptyer notebooks or scripts in the respective folders. 
-7. Refer to the "Data_Dictionary.ipynb" file if needed
-8. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain notes that would require scrolling without Word Wrap enabled
+4. Explore the Juptyer notebooks and contents in the respective folders. 
+5. Open the "STRM_SERV_COMP_V2.ipynb" file
+6. In the toolbar, select "Run All" to run the program
+7. Investigate the code blocks, comments, and markdown areas for insight into the program
+8. Refer to the "Data_Dictionary.ipynb" file if needed
+9. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain notes that would require scrolling without Word Wrap enabled
     - To do this in VS Code:
         - Select File > Preferences > Settings
         - Type in Word Wrap in the search
@@ -48,15 +51,17 @@ The following is a guide to running the project files locally:
     - Jupyter Notebooks online (JupyterLab,JupyerLite, etc.)
         - Select File > Wrap Words
         - Choose to turn it on
+10. When you are finished perusing the repository, run the final line code for your OS from the Virtual Environment Instructions below
 
 ## **Dependencies**
 - pandas and numpy for data manipulation and analysis
-- pysprark and SparkSession for distributed computing and big data processing
 - matplotlib and seaborn for data visualization
 - wordcloud for generating word cloud visuals
 - PIL (Python Imagining Library) for image processing 
 
 ## Virtual Environment Instructions
+Depending upon your OS, enter the commands below into your terminal to create, activate and install a virtual environment on your machine
+Onlly use Deactivate when you are finished with the program
 | Command | Linux/Mac | GitBash |
 | ------- | --------- | ------- |
 | Create | `python3 -m venv venv` | `python -m venv venv` |
