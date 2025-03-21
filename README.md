@@ -35,7 +35,7 @@ This project is organized as follows:
 The following is a guide to running the project files locally: 
 1. If you want to save a copy on your GitHub, fork the repository located [here](https://github.com/rkynhoff/Streaming_Service_Comparisons.git), otherwise, move to step 2
 2. In your command center, clone the repository to your on your local machine: 'git clone https://github.com/rkynhoff/Streaming_Service_Comparisons.git'
-3. Install the necessary dependencies: 'pip install requirements.txt'
+3. Open the cloned repository 
 4. Follow the steps to create and activiate a virtual environment using the "Virtual Environment Commands to create a virtual environment" instructions below, depending on your OS
     - This step should also include installing the requirements.txt file
 5. You should now be able to run the program using the "STRM_SERV_COMP_V2.ipynb" file
