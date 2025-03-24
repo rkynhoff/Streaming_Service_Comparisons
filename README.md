@@ -3,7 +3,7 @@
 ## Overview
 This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more along with a comparison of price points. The goal of this project is to demonstrate a general knowledge of Python. 
 
-![AppleTV+](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/AppleTV.png | 250x250) ![Hulu](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Hulu.jpg | 250x250) ![Netflix](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Netflix.jpg | 250x250) ![PrimeVideo](Ihttps://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Prime.png | 250x250)
+![AppleTV+](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/AppleTV.png) ![Hulu](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Hulu.jpg) ![Netflix](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Netflix.jpg) ![PrimeVideo](Ihttps://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Prime.png)
 
 ## Data Sources:
 Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating, all of which came from kaggle.com. One dataset contains information related to pricing on each of the services for a specific timeframe noted as month-year. This dataset was manually derived. See details below 
