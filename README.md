@@ -1,18 +1,19 @@
 # **Streaming Service Comparision**
 
 ## Overview
-This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more in comparison to price points. The goal of this project is to demonstrate a general knowledge of Python. 
+This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more along with a comparison of price points. The goal of this project is to demonstrate a general knowledge of Python. 
 
-## __Data Sources:__
-Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating. One dataset contains information related to pricing on each of the services from for a specific timeframe noted as month-year. 
+![AppleTV+](Images\AppleTV.png) ![Hulu](Images\Hulu.jpg) ![Netflix](Images\Netflix.jpg) !["PrimeVideo"](Images\Prime.pnggt)
 
-### Kaggle
+## Data Sources:
+Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating, all of which came from kaggle.com. One dataset contains information related to pricing on each of the services for a specific timeframe noted as month-year. This dataset was manually derived. See details below 
+
 - [Netflix](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset)<br>
 - [Hulu](https://www.kaggle.com/datasets/octopusteam/full-hulu-dataset)<br>
 - [Prime](https://www.kaggle.com/datasets/octopusteam/full-amazon-prime-dataset/data)<br>
 - [AppleTV](https://www.kaggle.com/datasets/octopusteam/full-apple-tv-dataset)<br>
 - [Streaming_Service_Pricing_Histories](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Data/Streaming_Services_Pricing_Histories.csv)<br>
-    - Manually Derived From: [Price_History_Reference.docx]|(https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Pricing_History_Reference.docx)
+    - Manually Derived From: [Price_History_Reference.docx](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Pricing_History_Reference.docx)
 
 ### Project Structure
 ---
@@ -22,12 +23,13 @@ This project is organized as follows:
 - **Data Cleaning & Preparation**: Using python and other packages to clean and prepare data for analysis. 
 - **Analysis**: Using Python with the Pandas package to analyze the data. 
 - **Visualizations**: Using Matplotlib and Seaborn to visualize my findings.
+- **Summary**: Summary of analysis/findings. 
 
 ### Features Utilized for the Project
 | Feature        | Description                           |
 |----------------|---------------------------------------|
 | Read FIVE data files| Used 4 CSV files from Kaggle & created one of my own. |
-| Made # Plots | Made various plots to visually show my findings |
+| Made 10 Seaborn Plots, 3 WordClouds, 1 Stacked Bar Chart & 1 Line Graph with Matplotlib| Made various plots to visually show my findings |
 | Utilized a virtual environment | Created a venv for this project to keep my computer clean |
 | Utilized Markdown & Commenting in my Jupyter Notebook | Included Markdown Language and commenting in my code to describe each section of my project & to define clear notes describing each code block. 
 
@@ -42,8 +44,8 @@ The following is a guide to running the project files locally:
 5. Open the "STRM_SERV_COMP_V2.ipynb" file
 6. In the toolbar, select "Run All" to run the program
 7. Investigate the code blocks, comments, and markdown areas for insight into the program
-8. Refer to the "Data_Dictionary.ipynb" file if needed
-9. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain notes that would require scrolling without Word Wrap enabled
+8. Refer to the data dictionaries within the Jupyter Notebook located after the intitial DataFrames load and after the final cleaned DataFrame, or their respecitve ipynb files if needed
+9. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain comments/notes that would require scrolling without Word Wrap enabled
     - To do this in VS Code:
         - Select File > Preferences > Settings
         - Type in Word Wrap in the search
@@ -52,12 +54,6 @@ The following is a guide to running the project files locally:
         - Select File > Wrap Words
         - Choose to turn it on
 10. When you are finished perusing the repository, run the final line code for your OS from the Virtual Environment Instructions below
-
-## **Dependencies**
-- pandas and numpy for data manipulation and analysis
-- matplotlib and seaborn for data visualization
-- wordcloud for generating word cloud visuals
-- PIL (Python Imagining Library) for image processing 
 
 ## Virtual Environment Instructions
 Depending upon your OS, enter the commands below into your terminal to create, activate and install a virtual environment on your machine
@@ -68,3 +64,9 @@ Onlly use Deactivate when you are finished with the program
 | Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate` | `deactivate` |
+
+## **Dependencies**
+- pandas and numpy for data manipulation and analysis
+- matplotlib and seaborn for data visualization
+- wordcloud for generating word cloud visuals
+- PIL (Python Imagining Library) for image processing 
