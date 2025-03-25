@@ -3,7 +3,8 @@
 ## Overview
 This is my capstone project for CODE:You. The project analyzes four streaming services and their price histories to gain insights into content differences such as overall content amount, content types, genres, and more along with a comparison of price points. The goal of this project is to demonstrate a general knowledge of Python. 
 
-![AppleTV+](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/AppleTV.png | 250x250) ![Hulu](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Hulu.jpg | 250x250) ![Netflix](https://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Netflix.jpg | 250x250) ![PrimeVideo](Ihttps://github.com/rkynhoff/Streaming_Service_Comparisons/blob/main/Images/Prime.png | 250x250)
+![AppleTV+](Images/AppleTV.png) ![Hulu](Images/Hulu.jpg)<br>
+![Netflix](Images/Netflix.jpg) ![PrimeVideo](Images/Prime.png)
 
 ## Data Sources:
 Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating, all of which came from kaggle.com. One dataset contains information related to pricing on each of the services for a specific timeframe noted as month-year. This dataset was manually derived. See details below 
@@ -53,7 +54,8 @@ The following is a guide to running the project files locally:
     - Jupyter Notebooks online (JupyterLab,JupyerLite, etc.)
         - Select File > Wrap Words
         - Choose to turn it on
-10. When you are finished perusing the repository, run the final line code for your OS from the Virtual Environment Instructions below
+10. If running an editor which requires the ipykernel extension, proceed with the install when prompted
+11. When you are finished perusing the repository, run the final line code for your OS from the Virtual Environment Instructions below
 
 ## Virtual Environment Instructions
 Depending upon your OS, enter the commands below into your terminal to create, activate and install a virtual environment on your machine
