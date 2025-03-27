@@ -27,12 +27,13 @@ This project is organized as follows:
 - **Summary**: Summary of analysis/findings. 
 
 ### Features Utilized for the Project
-| Feature        | Description                           |
-|----------------|---------------------------------------|
-| Read FIVE data files| Used 4 CSV files from Kaggle & created one of my own. |
-| Made 10 Seaborn Plots, 3 WordClouds, 1 Stacked Bar Chart & 1 Line Graph with Matplotlib| Made various plots to visually show my findings |
+| Feature | Description |
+|:--------|:------------|
+| Read FIVE data files | Used 4 CSV files from Kaggle & created one of my own. |
+| Created several seaborn & matplotlib plots, 4 Stacked Bar Charts, 3 WordClouds, & 1 Line Graph | Made various plots to visually show my findings |
 | Utilized a virtual environment | Created a venv for this project to keep my computer clean |
-| Utilized Markdown & Commenting in my Jupyter Notebook | Included Markdown Language and commenting in my code to describe each section of my project & to define clear notes describing each code block. 
+| Utilized Markdown & Commenting in my Jupyter Notebook | Included Markdown Language and commenting in my code to describe each section of my project & to define clear notes describing each code block. |
+| Best practices | Created a function to wrap text on the x-axis of several graphs |
 
 ## **Getting Started**
 The following is a guide to running the project files locally: 
