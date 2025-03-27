@@ -186,3 +186,7 @@ cython_debug/
 /Pricing_History_References.docx
 /Streaming_Service_Prices.csv
 /Pricing_History_Reference.docx
+/Raw_Prices_Data_Dictionary.ipynb
+/Raw_Streaming_Data_Dictionary.ipynb
+/Streaming_Clean_Data_Dictionary.ipynb
+/STRM_SERV_COMP_Visualization.ipynb
