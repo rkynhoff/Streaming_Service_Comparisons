@@ -16,9 +16,9 @@ def wrap_xticks(ax, width, break_long_words=False):
     # Set the tick labels on the x-axis to the wrapped text labels and keep the text horizontally oriented
     ax.set_xticklabels(labels, rotation=0)
 
-# Function for adding bar count labels in non-stacked bar graphs
+# Function for adding bar count labels in non-stacked bar graphs in large font size
 # Define the function
-def add_bar_value_counts():
+def add_bar_value_counts_lg():
     # Initiate a loop that goes through each bar in the current axis
     for p in plt.gca().patches:
         # Obtain the bar height and change it to an integer
@@ -26,9 +26,34 @@ def add_bar_value_counts():
         # Add the value count in the specified location (center of the bar) at half the height of the bar, center the font, make it white, in a specific fontsize and bold it
         plt.gca().text(p.get_x() + p.get_width()/2, height/2, str(height), ha = "center", color = "white", fontsize = 12, fontweight = "bold")
 
-def add_bar_counts():
-    # i = the index of each element in the series as an integer that starts at 0 and increments by 1 for each iteration 
-    # v = the value of each element in the series as the actual count & is a numeric value
-    # str(v) = converts the value of v to a string to be used in the bar plot
-    for i, v in enumerate(top_apple_tv_genres["Count"]):
-        plt.text(i, v/2, str(v), color = "white", ha = "center", fontsize = 14, fontweight = 600)
+# Function for adding bar count labels in non-stacked bar graphs in medium font size
+# Define function
+def add_bar_value_counts_md():
+        # Initiate a loop that goes through each bar in the current axis
+    for p in plt.gca().patches:
+        # Obtain the bar height and change it to an integer
+        height = int(p.get_height())
+        # Add the value count in the specified location (center of the bar) at half the height of the bar, center the font, make it white, in a specific fontsize and bold it
+        plt.gca().text(p.get_x() + p.get_width()/2, height/2, str(height), ha = "center", color = "white", fontsize = 10, fontweight = "bold")
+
+# Function for adding bar count labels in non-stacked bar graphs in small font size
+# Define function
+def add_bar_value_counts_sm():
+        # Initiate a loop that goes through each bar in the current axis
+    for p in plt.gca().patches:
+        # Obtain the bar height and change it to an integer
+        height = int(p.get_height())
+        # Add the value count in the specified location (center of the bar) at half the height of the bar, center the font, make it white, in a specific fontsize and bold it
+        plt.gca().text(p.get_x() + p.get_width()/2, height/2, str(height), ha = "center", color = "white", fontsize = 8, fontweight = "bold")
+
+# Function for adding bar count labels in stacked bar graphs small font size
+# Define function
+def add_bar_value_counts_stacked():
+# Display values in the center of each stacked bar
+    for i, col in enumerate(genre_counts.columns):
+        for j, v in enumerate(genre_counts[col]):
+            if v > 0:
+                # Calculate the y position of the text to be plotted
+                y_pos = sum(genre_counts.iloc[j, :i].values)
+                # Plot the text
+                plt.text(j, y_pos + v/2, str(v), color="white", ha="center", fontsize=8, fontweight='bold')
