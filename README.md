@@ -74,3 +74,4 @@ Onlly use Deactivate when you are finished with the program
 - matplotlib and seaborn for data visualization
 - wordcloud for generating word cloud visuals
 - PIL (Python Imagining Library) for image processing 
+- textwrap for wrapping text on graph axes 
