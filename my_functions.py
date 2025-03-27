@@ -15,8 +15,22 @@ def wrap_xticks(ax, width, break_long_words=False):
         labels.append(textwrap.fill(text, width=width, break_long_words=break_long_words))
     # Set the x ticks and x tick labels on the x-axis to the wrapped text labels and keep the text horizontally oriented
     ax.xaxis.set_major_locator(plt.FixedLocator(range(len(labels))))
-    ax.set_xticklabels(labels, rotation = 0, ha = "right")
-    
+    ax.set_xticklabels(labels, rotation = 0, ha = "center")
+
+# Function for wrapping text on the x axis of some of the graphs specific to right justified labels
+# Define the function with specific parameters: ax = axes object of the graph, width =  max width of text, break_long_words = boolean to determine whether or not long words should be broken up or not
+def wrap_xticks_rt(ax, width, break_long_words=False):
+    # Initialize an empty list where the storelabels will go
+    labels = []
+   # Initiate the loop that will run through each tick label on the x-axis
+    for label in ax.get_xticklabels():
+        # Obtain the text of the tick label
+        text = label.get_text()
+        # Wrap the text to fit within the specified width using the textwrap.fill function and textwrap module, determine if long words should be broken, append wrapped text to the labels list
+        labels.append(textwrap.fill(text, width=width, break_long_words=break_long_words))
+    # Set the x ticks and x tick labels on the x-axis to the wrapped text labels and keep the text horizontally oriented
+    ax.xaxis.set_major_locator(plt.FixedLocator(range(len(labels))))
+    ax.set_xticklabels(labels, rotation = 45, ha = "right")
 
 # Function for adding bar count labels in non-stacked bar graphs in large font size
 # Define the function
