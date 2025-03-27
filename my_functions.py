@@ -1,12 +1,6 @@
-import pandas as pd
-import numpy as np
+
 import matplotlib.pyplot as plt
-import matplotlib.colors as mcolors
-from matplotlib.ticker import MultipleLocator
 import textwrap
-import seaborn as sn
-from wordcloud import WordCloud
-from PIL import Image
 
 # Function for wrapping text on the x axis of some of the graphs
 def wrap_xticks(ax, width, break_long_words=False):
