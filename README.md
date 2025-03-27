@@ -42,11 +42,12 @@ The following is a guide to running the project files locally:
 3. Follow the first three steps in the "Virtual Environment Instructions" to create and activiate a virtual environment, depending on your operating system (OS)
     - This step should also include installing the requirements.txt file
 4. Explore the Juptyer notebooks and contents in the respective folders. 
-5. Open the "STRM_SERV_COMP_V2.ipynb" file
-6. In the toolbar, select "Run All" to run the program
-7. Investigate the code blocks, comments, and markdown areas for insight into the program
-8. Refer to the data dictionaries within the Jupyter Notebook located after the intitial DataFrames load and after the final cleaned DataFrame, or their respecitve ipynb files if needed
-9. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain comments/notes that would require scrolling without Word Wrap enabled
+5. Open the "my_functions.py" file then run it
+6. Open the "STRM_SERV_COMP_V2.ipynb" file
+7. In the toolbar, select "Run All" to run the program
+8. Investigate the code blocks, comments, and markdown areas for insight into the program
+9. Refer to the data dictionaries within the Jupyter Notebook located after the intitial DataFrames load and after the final cleaned DataFrame, or their respecitve ipynb files if needed
+10. Helpful Hint: You may want to turn on Word Wrap as some of the cells contain comments/notes that would require scrolling without Word Wrap enabled
     - To do this in VS Code:
         - Select File > Preferences > Settings
         - Type in Word Wrap in the search
@@ -54,8 +55,8 @@ The following is a guide to running the project files locally:
     - Jupyter Notebooks online (JupyterLab,JupyerLite, etc.)
         - Select File > Wrap Words
         - Choose to turn it on
-10. If running an editor which requires the ipykernel extension, proceed with the install when prompted
-11. When you are finished perusing the repository, run the final line code for your OS from the Virtual Environment Instructions below
+11. If running an editor which requires the ipykernel extension, proceed with the install when prompted
+12. When you are finished perusing the repository, run the final line code for your OS from the Virtual Environment Instructions below
 
 ## Virtual Environment Instructions
 Depending upon your OS, enter the commands below into your terminal to create, activate and install a virtual environment on your machine
