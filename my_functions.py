@@ -45,15 +45,3 @@ def add_bar_value_counts_sm():
         height = int(p.get_height())
         # Add the value count in the specified location (center of the bar) at half the height of the bar, center the font, make it white, in a specific fontsize and bold it
         plt.gca().text(p.get_x() + p.get_width()/2, height/2, str(height), ha = "center", color = "white", fontsize = 8, fontweight = "bold")
-
-# Function for adding bar count labels in stacked bar graphs small font size
-# Define function
-def add_bar_value_counts_stacked():
-# Display values in the center of each stacked bar
-    for i, col in enumerate(genre_counts.columns):
-        for j, v in enumerate(genre_counts[col]):
-            if v > 0:
-                # Calculate the y position of the text to be plotted
-                y_pos = sum(genre_counts.iloc[j, :i].values)
-                # Plot the text
-                plt.text(j, y_pos + v/2, str(v), color="white", ha="center", fontsize=8, fontweight='bold')
