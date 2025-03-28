@@ -7,7 +7,7 @@ This is my capstone project for CODE:You. The project analyzes four streaming se
 ![Netflix](Images/Netflix.jpg) ![PrimeVideo](Images/Prime.png)
 
 ## Data Sources:
-Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating, all of which came from kaggle.com. One dataset contains information related to pricing on each of the services for a specific timeframe noted as month-year. This dataset was manually derived. See details below 
+Four of the datasets used in this project contain content information about each streaming service listed below, including title, content type, genre, release year, IMDb ID, and IMDb Average Rating, all of which came from kaggle.com and are updated daily via an API used by the datasets' owner. The files uses below were last updated as of 03/23/2025. One dataset contains information related to pricing on each of the services for a specific timeframe noted as month-year. This dataset was manually derived. See details below 
 
 - [Netflix](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset)<br>
 - [Hulu](https://www.kaggle.com/datasets/octopusteam/full-hulu-dataset)<br>
